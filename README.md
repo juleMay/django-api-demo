@@ -33,3 +33,6 @@ docker-compose down
 - Create, read, update, and delete records
 - Persistent data storage with Docker volumes
 - Isolated development environment
+
+## Disclaimer
+This project was developed as a learning exercise with assistance from AI tools and is intended for educational purposes only. No guarantees are made regarding the correctness, security, completeness or suitability of the code for any particular purpose, so use it at your own discretion. Finally, this disclaimer is not meant to replace or invalidate the license of the project. See [LICENSE](LICENSE).
